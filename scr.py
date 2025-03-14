@@ -1,3 +1,6 @@
+pip install streamlit
+pip install pandas
+pip install networkx
 
 import streamlit as st
 import pandas as pd
